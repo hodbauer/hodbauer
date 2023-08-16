@@ -3,8 +3,7 @@
 
 
 - 🧡 to create complex web apps
-- 👨🏻‍💻 good experience in **Angular** and **node.js** (and starting with **React** too)
-- 🏢 @ [Vim](https://getvim.com/)
+- 👨🏻‍💻 good experience in **JS** and in fronend frameworks like **Angular** and **React**, also backend with **node.js**
 - `🥀 && 📚` are some of my hobbies
 - Enjoys learning new things (like the following chart)
 
