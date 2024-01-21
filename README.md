@@ -4,7 +4,7 @@
 
 - 🧡 to create complex web apps
 - 👨🏻‍💻 good experience in **JS** and in fronend frameworks like **Angular** and **React**, also backend with **node.js**
-- `🥀 && 📚` are some of my hobbies
+- `🥀` Gardening my local garden && `📚` read fiction books are some of my hobbies
 - Enjoys learning new things (like the following chart)
 
 ```mermaid
